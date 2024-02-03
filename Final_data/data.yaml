@@ -1,13 +1,5 @@
 train: ../train/images
 val: ../valid/images
-test: ../test/images
 
 nc: 6
 names: ['Hello', 'I Love You', 'NO', 'Please', 'Thanks', 'Yes']
-
-roboflow:
-  workspace: hiren-khokhar-qhzbv
-  project: sign_detection-1bbyz
-  version: 1
-  license: CC BY 4.0
-  url: https://universe.roboflow.com/hiren-khokhar-qhzbv/sign_detection-1bbyz/dataset/1
