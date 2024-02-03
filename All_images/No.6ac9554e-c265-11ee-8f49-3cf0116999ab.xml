@@ -1,0 +1,26 @@
+<annotation>
+	<folder>All_images</folder>
+	<filename>No.6ac9554e-c265-11ee-8f49-3cf0116999ab.jpg</filename>
+	<path>E:\Project\Sign_Language_Detection\All_images\No.6ac9554e-c265-11ee-8f49-3cf0116999ab.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>NO</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>422</xmin>
+			<ymin>198</ymin>
+			<xmax>622</xmax>
+			<ymax>364</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>All_images</folder>
+	<filename>Thanks.822dc6c8-c265-11ee-a96a-3cf0116999ab.jpg</filename>
+	<path>E:\Project\Sign_Language_Detection\All_images\Thanks.822dc6c8-c265-11ee-a96a-3cf0116999ab.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Thanks</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>304</xmin>
+			<ymin>255</ymin>
+			<xmax>475</xmax>
+			<ymax>428</ymax>
+		</bndbox>
+	</object>
+</annotation>

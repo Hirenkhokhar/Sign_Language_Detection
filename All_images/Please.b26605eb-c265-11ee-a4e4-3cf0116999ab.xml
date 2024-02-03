@@ -1,0 +1,26 @@
+<annotation>
+	<folder>All_images</folder>
+	<filename>Please.b26605eb-c265-11ee-a4e4-3cf0116999ab.jpg</filename>
+	<path>E:\Project\Sign_Language_Detection\All_images\Please.b26605eb-c265-11ee-a4e4-3cf0116999ab.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Please</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>269</xmin>
+			<ymin>338</ymin>
+			<xmax>435</xmax>
+			<ymax>474</ymax>
+		</bndbox>
+	</object>
+</annotation>
